@@ -10,6 +10,7 @@ objects in a synthetic world whose hidden constitution is known.
 
 The idea comes from John Locke, for whom a thing is known through its powers.
 
+- **Paper:** [paper.pdf](paper.pdf), and in Spanish, [paper_es.pdf](paper_es.pdf)
 - **Interactive summary:** <https://nousarchives.github.io/blog/angel/knowing-a-thing-by-its-powers/>
 
 ## What it found
