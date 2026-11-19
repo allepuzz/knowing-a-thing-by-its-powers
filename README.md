@@ -48,11 +48,11 @@ test; `salida` is the output folder, `semillas` the seeds and `pasos` the steps.
 
 ## Limits
 
-A small synthetic world, small models and five seeds. No real data, no benchmark
-and no language. Nothing here is a direct claim about transformers trained on text.
+A small synthetic world, small models and five seeds. No real data, so nothing here
+shows that the design gives better predictions on a real task.
 
 ---
 
 Independent work. It follows the format of the final project of MIT 6.7960 Deep
 Learning (Fall 2024), on MIT OpenCourseWare, and was not submitted to MIT or
-assessed by it. Much of the code was written with the help of Claude.
+assessed by it. Part of the code was written with the help of Claude.
