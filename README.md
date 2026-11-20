@@ -15,9 +15,9 @@ The idea comes from John Locke, for whom a thing is known through its powers.
 
 ## What it found
 
-> With enough training data the model that reads is 2 to 4 points more accurate
-> on interactions it was never shown, and the standard transformer needs about
-> 1.6 times more data to reach the same error.
+With enough training data the model that reads is 2 to 4 points more accurate
+on interactions it was never shown, and the standard transformer needs about
+1.6 times more data to reach the same error.
 
 Its vectors also contain more of the hidden constitution, and the model uses it.
 Two results go against it. With little data it overfits and falls behind, and
