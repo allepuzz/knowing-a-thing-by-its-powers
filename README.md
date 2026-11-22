@@ -1,14 +1,18 @@
 # Knowing a Thing by Its Powers
 
-Does the way a transformer ingests an object condition how it generalizes?
+Generalization of a transformer with stored or inferred object vectors.
 
-A standard transformer keeps a stored row of numbers for each object. Here it is
-compared with an otherwise identical model that stores nothing for an object and
-computes its vector by reading the interactions in which the object has been
+For John Locke, the real essence of a thing cannot be known. We can know a thing
+only by how it interacts with other things, and he calls these ways of interacting
+its powers.
+
+This experiment compares a standard transformer, which keeps a stored row of
+numbers for each object, with an otherwise identical one that stores nothing and
+computes the vector of an object by reading the interactions in which it has been
 observed. Both predict the outcome, yes or no, of an interaction between two
-objects in a synthetic world whose hidden constitution is known.
-
-The idea comes from John Locke, for whom a thing is known through its powers.
+objects, for example whether gold dissolves in water. In the synthetic world they
+are tested in, each outcome follows from a hidden constitution of each object and
+from fixed laws, and both are known.
 
 - **Paper:** [paper.pdf](paper.pdf), and in Spanish, [paper_es.pdf](paper_es.pdf)
 - **Interactive summary:** <https://nousarchives.github.io/blog/angel/knowing-a-thing-by-its-powers/>
